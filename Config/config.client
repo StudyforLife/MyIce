@@ -1,0 +1,2 @@
+client.proxy=StationTest/TopicManager:default -h 10.8.56.223 -p 9999
+

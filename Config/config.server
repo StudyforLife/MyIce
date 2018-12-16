@@ -1,0 +1,4 @@
+server.proxy=StationTest/TopicManager:tcp -h localhost -p 9999 
+#StationMessageAdapter.Endpoints=default -h localhost -p 5566
+#备用1
+StationMessageAdapter.Endpoints=default -h localhost

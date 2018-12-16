@@ -1,0 +1,4 @@
+IceStorm.InstanceName=StationTest
+IceStorm.TopicManager.Endpoints=tcp -p 9999
+IceStorm.Publish.Endpoints=tcp -h localhost -p 10000
+Freeze.DbEnv.IceStorm.DbHome=db
